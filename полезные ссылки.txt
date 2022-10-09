@@ -1,5 +1,8 @@
 adarraK=1!
 
+ git remote set-url origin https://adarrak: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@github.com/adarrak/micro.git
+
+
 
 https://stepik.org/course/113656/promo?search=1212900650
 
