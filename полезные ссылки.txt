@@ -1,6 +1,6 @@
 adarraK=1!
 
- git remote set-url origin https://adarrak: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@github.com/adarrak/micro.git
+ git remote set-url origin https://adarrak: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@github.com/adarrak/micro.git
 
 
 
